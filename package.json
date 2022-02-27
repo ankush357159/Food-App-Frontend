@@ -1,0 +1,19 @@
+{
+  "name": "food-website",
+  "version": "1.0.0",
+  "description": "![FOOD-WEBSITE](/images/bg/bg-3.jpg)",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ankush357159/Food-App-Frontend.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ankush357159/Food-App-Frontend/issues"
+  },
+  "homepage": "https://github.com/ankush357159/Food-App-Frontend#readme"
+}
